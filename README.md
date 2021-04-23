@@ -4,7 +4,7 @@ Public site for Social Media and Crowdsourcing Assessment of Weather Impacts at 
 Links to the project's key outputs:
 
 Reports:
-- [Our final project report](https://smacawi.github.io/project-report.pdf)
+- [Final project report](https://smacawi.github.io/project-report.pdf)
 - [Annotated bibliography](https://smacawi.github.io/annotated-bibliography.pdf)
 - [Social network analysis report](https://smacawi.github.io/social-network-analysis-report.pdf)
 
