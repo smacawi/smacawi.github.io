@@ -4,9 +4,9 @@ Public site for Social Media and Crowdsourcing Assessment of Weather Impacts at 
 Links to the project's key outputs:
 
 Reports:
-- [Final project report](https://smacawi.github.io/project-report.pdf)
-- [Annotated bibliography](https://smacawi.github.io/annotated-bibliography.pdf)
-- [Social network analysis report](https://smacawi.github.io/social-network-analysis-report.pdf)
+- [Final project report](https://smacawi.github.io/docs/project-report.pdf)
+- [Annotated bibliography](https://smacawi.github.io/docs/annotated-bibliography.pdf)
+- [Social network analysis report](https://smacawi.github.io/docs/social-network-analysis-report.pdf)
 
 Publications:
 - Romascanu, A., Ker, H., Sieber, R., Greenidge, S., Lumley, S., Bush, D., Morgan, S., Zhao, R., & Brunila, M. (2020). Using deep learning and social network analysis to understand and manage extreme flooding. https://doi.org/10.1111/1468-5973.12311 
